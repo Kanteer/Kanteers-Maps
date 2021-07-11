@@ -4,20 +4,19 @@ Not sure what to say here, but hey. I'm Kanteer. You should know me. Just scroll
 
 ### Maps (Ranked from hardest to easiest)
 
-```
-https://raw.githubusercontent.com/Kanteer/YW/main/Maybe-Able-to-Fly
+>https://raw.githubusercontent.com/Kanteer/YW/main/Maybe-Able-to-Fly
 https://raw.githubusercontent.com/Kanteer/RoughSketch/main/777
-https://raw.githubusercontent.com/Kanteer/Lil-Darkie/master/SOUND-OF-GRINDING-A-POLITICIANS-SKULL-INTO-A-FINE-POWDER
+>https://raw.githubusercontent.com/Kanteer/Lil-Darkie/master/SOUND-OF-GRINDING-A-POLITICIANS-SKULL-INTO-A-FINE-POWDER
 https://raw.githubusercontent.com/Kanteer/Kobaryo/master/New-Game-Plus-MANIA
-https://raw.githubusercontent.com/Kanteer/diabarha-uranoid/master/azure-wolfie-is-a-qt
+>https://raw.githubusercontent.com/Kanteer/diabarha-uranoid/master/azure-wolfie-is-a-qt
 https://raw.githubusercontent.com/Kanteer/Kobaryo/master/sweet-compote
-https://raw.githubusercontent.com/Kanteer/AFOURTEEN/main/BREATHE-AGAIN
+>https://raw.githubusercontent.com/Kanteer/AFOURTEEN/main/BREATHE-AGAIN
 https://raw.githubusercontent.com/Kanteer/andrew/master/WHAT%20THE%20HELL
-https://raw.githubusercontent.com/Kanteer/Xystran/main/Depressed-Mind
+>https://raw.githubusercontent.com/Kanteer/Xystran/main/Depressed-Mind
 https://raw.githubusercontent.com/Kanteer/Kondo-Koji/master/Slider
-https://raw.githubusercontent.com/Kanteer/RedOgre/main/Extratongue
+>https://raw.githubusercontent.com/Kanteer/RedOgre/main/Extratongue
 https://raw.githubusercontent.com/Kanteer/funny-overmap/master/laugh
-https://raw.githubusercontent.com/Kanteer/Exit-Mouse/master/This-Is-Not-The-End
+>https://raw.githubusercontent.com/Kanteer/Exit-Mouse/master/This-Is-Not-The-End
 https://raw.githubusercontent.com/Kanteer/super-sayan-3d/master/poop
 https://raw.githubusercontent.com/Kanteer/Lil-Darkie/master/AMV
 https://raw.githubusercontent.com/Kanteer/Kobaryo/master/New-Game-Plus-TRIPLE-THREAT
